@@ -20,10 +20,6 @@ Halo! Saya **Rafaditya Syahputra**, seorang **Front End Developer** berusia **17
 <br/>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raditt10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raditt10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raditt10&theme=tokyonight&hide_border=true)
 
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raditt10&theme=tokyonight)
