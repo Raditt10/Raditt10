@@ -5,13 +5,70 @@
 
 </div>
 
-Halo! 👋 Saya **Rafaditya Syahputra**, seorang **Front End Developer** dengan passion dalam menciptakan solusi digital yang **inovatif** dan **efisien**.
+## 👋 About Me
 
-Dengan pengalaman lebih dari **2 tahun**, saya fokus membangun **aplikasi website** dan **aplikasi mobile** yang fungsional dengan antarmuka yang bersih dan user-friendly.
-
-Saat ini saya berusia **17 tahun** dan sedang menempuh pendidikan di **SMKN 13 Bandung**, jurusan **Rekayasa Perangkat Lunak**.
+Halo! Saya **Rafaditya Syahputra**, seorang **Front End Developer** berusia **17 tahun** yang sedang menempuh pendidikan di **SMKN 13 Bandung**, jurusan **Rekayasa Perangkat Lunak**. Dengan pengalaman lebih dari **2 tahun**, saya memiliki passion dalam menciptakan solusi digital yang **inovatif** dan **efisien** — mulai dari **aplikasi website** hingga **aplikasi mobile** dengan antarmuka yang bersih dan user-friendly.
 
 - 🔭 Sedang mengerjakan project **Web & Mobile**
 - 🌱 Terus belajar dan mengembangkan skill di bidang **Front End Development**
 - 🎯 Goal: Menjadi developer yang berdampak dan menciptakan produk digital berkualitas
+- 🏫 Organisasi: [**MUTU-RPL**](https://github.com/MUTU-RPL)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Raditt10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raditt10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raditt10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raditt10&theme=tokyonight" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+| Achievement | Description |
+|:-:|:-:|
+| 🦈 **Pull Shark** | Merged pull requests |
+| 🤝 **Pair Extraordinaire** | Co-authored commits |
+| ⚡ **Quickdraw** | Rapid issue/PR interactions |
+| 🎯 **YOLO** | Merged without review |
+
+</div>
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+
+[![bendeharaKu](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=bendeharaKu&theme=tokyonight&hide_border=true)](https://github.com/Raditt10/bendeharaKu)
+[![irmaVerse](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=irmaVerse&theme=tokyonight&hide_border=true)](https://github.com/Raditt10/irmaVerse)
+[![hoshiDay.io](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=hoshiDay.io&theme=tokyonight&hide_border=true)](https://github.com/Raditt10/hoshiDay.io)
+[![semiZone](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=semiZone&theme=tokyonight&hide_border=true)](https://github.com/Raditt10/semiZone)
+[![portofolio](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=portofolio&theme=tokyonight&hide_border=true)](https://github.com/Raditt10/portofolio)
+[![forU](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=forU&theme=tokyonight&hide_border=true)](https://github.com/Raditt10/forU)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Raditt10&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
 
