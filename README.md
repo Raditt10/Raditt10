@@ -36,7 +36,7 @@ Halo! Saya **Rafaditya Syahputra**, seorang **Front End Developer** berusia **17
 ---
 
 <details>
-<summary><h2>🏆 GitHub Achievements</h2></summary>
+<summary><h2>My GitHub Achievements</h2></summary>
 <br/>
 <div align="center">
 
