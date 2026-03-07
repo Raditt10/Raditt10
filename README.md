@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Front+End+Developer+%F0%9F%92%BB;Mobile+%26+Web+App+Builder+%F0%9F%93%B1;2%2B+Years+of+Experience+%F0%9F%9A%80;Clean+UI+%26+Efficient+Code+%E2%9C%A8;SMK+Negeri+13+Bandung+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF,58A6FF,58A6FF,FFFFFF,58A6FF&center=true&vCenter=true&random=false&width=600&lines=Front+End+Developer+%F0%9F%92%BB;Mobile+%26+Web+App+Builder+%F0%9F%93%B1;2%2B+Years+of+Experience+%F0%9F%9A%80;Clean+UI+%26+Efficient+Code+%E2%9C%A8;SMK+Negeri+13+Bandung+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 
