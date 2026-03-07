@@ -7,12 +7,13 @@
 
 ## About Me
 
-Halo! Saya **Rafaditya Syahputra**, seorang **Front End Developer** berusia **17 tahun** yang sedang menempuh pendidikan di **SMKN 13 Bandung**, jurusan **Rekayasa Perangkat Lunak**. Dengan pengalaman lebih dari **2 tahun**, saya memiliki passion dalam menciptakan solusi digital yang **inovatif** dan **efisien**. mulai dari **aplikasi website** hingga **aplikasi mobile** dengan antarmuka yang bersih dan user-friendly.
+Halo! Saya **Rafaditya Syahputra**, seorang **Front End Developer** berasal dari Indonesia berusia **17 tahun** yang sedang menempuh pendidikan di **SMKN 13 Bandung**, jurusan **Rekayasa Perangkat Lunak**. Dengan pengalaman lebih dari **2 tahun**, saya memiliki passion dalam menciptakan solusi digital yang **inovatif** dan **efisien**. mulai dari **aplikasi website** hingga **aplikasi mobile** dengan antarmuka yang bersih dan user-friendly.
 
-- 🔭 Mengerjakan project **Web & Mobile**
-- 🌱 Terus belajar dan mengembangkan skill di bidang **Front End Development**
-- 🎯 Goal: Menjadi developer yang berdampak dan menciptakan produk digital berkualitas
+Hello! I'm **Rafaditya Syahputra**, a **Front End Developer** from Indonesia, currently **17 years old** and studying at **SMKN 13 Bandung**, majoring in **Software Engineering**. With over **2 years of experience**, I am passionate about creating **innovative** and **efficient** digital solutions—from **web applications** to **mobile apps** with clean and user-friendly interfaces.
 
+ - 🔭 Working on **Web & Mobile** projects
+ - 🌱 Continuously learning and improving skills in **Front End Development**
+ - 🎯 Goal: To become an impactful developer and create high-quality digital products
 ---
 
 <details>
