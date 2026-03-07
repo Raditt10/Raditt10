@@ -5,19 +5,18 @@
 
 </div>
 
-## 👋 About Me
+## About Me
 
 Halo! Saya **Rafaditya Syahputra**, seorang **Front End Developer** berusia **17 tahun** yang sedang menempuh pendidikan di **SMKN 13 Bandung**, jurusan **Rekayasa Perangkat Lunak**. Dengan pengalaman lebih dari **2 tahun**, saya memiliki passion dalam menciptakan solusi digital yang **inovatif** dan **efisien** — mulai dari **aplikasi website** hingga **aplikasi mobile** dengan antarmuka yang bersih dan user-friendly.
 
-- 🔭 Sedang mengerjakan project **Web & Mobile**
+- 🔭 Mengerjakan project **Web & Mobile**
 - 🌱 Terus belajar dan mengembangkan skill di bidang **Front End Development**
 - 🎯 Goal: Menjadi developer yang berdampak dan menciptakan produk digital berkualitas
-- 🏫 Organisasi: [**MUTU-RPL**](https://github.com/MUTU-RPL)
 
 ---
 
 <details>
-<summary><h2>📊 GitHub Statistics</h2></summary>
+<summary><h2>My GitHub Statistics</h2></summary>
 <br/>
 <div align="center">
 
@@ -53,26 +52,8 @@ Halo! Saya **Rafaditya Syahputra**, seorang **Front End Developer** berusia **17
 
 ---
 
-<details>
-<summary><h2>📌 Pinned Repositories</h2></summary>
-<br/>
-<div align="center">
-
-[![bendeharaKu](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=bendeharaKu&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Raditt10/bendeharaKu)
-[![irmaVerse](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=irmaVerse&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Raditt10/irmaVerse)
-[![hoshiDay.io](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=hoshiDay.io&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Raditt10/hoshiDay.io)
-[![semiZone](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=semiZone&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Raditt10/semiZone)
-[![portofolio](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=portofolio&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Raditt10/portofolio)
-[![forU](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=forU&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Raditt10/forU)
-
-</div>
-</details>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Raditt10&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
-
