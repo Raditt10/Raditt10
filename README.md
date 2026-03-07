@@ -16,28 +16,50 @@ Halo! Saya **Rafaditya Syahputra**, seorang **Front End Developer** berusia **17
 
 ---
 
-## 📊 GitHub Statistics
-
+<details open>
+<summary><h2>📊 GitHub Statistics</h2></summary>
+<br/>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Raditt10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Raditt10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raditt10&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
+</picture>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raditt10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Raditt10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raditt10&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180"/>
+</picture>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raditt10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Raditt10&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raditt10&theme=default&hide_border=true" alt="GitHub Streak" />
+</picture>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raditt10&theme=tokyonight" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raditt10&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raditt10&theme=default" alt="Contribution Graph" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Raditt10&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raditt10&theme=minimal&hide_border=true&area=true" alt="Activity Graph" />
+</picture>
 
 </div>
+</details>
 
 ---
 
-## 🏆 GitHub Achievements
-
+<details>
+<summary><h2>🏆 GitHub Achievements</h2></summary>
+<br/>
 <div align="center">
 
 | Achievement | Description |
@@ -48,21 +70,24 @@ Halo! Saya **Rafaditya Syahputra**, seorang **Front End Developer** berusia **17
 | 🎯 **YOLO** | Merged without review |
 
 </div>
+</details>
 
 ---
 
-## 📌 Pinned Repositories
-
+<details>
+<summary><h2>📌 Pinned Repositories</h2></summary>
+<br/>
 <div align="center">
 
-[![bendeharaKu](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=bendeharaKu&theme=tokyonight&hide_border=true)](https://github.com/Raditt10/bendeharaKu)
-[![irmaVerse](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=irmaVerse&theme=tokyonight&hide_border=true)](https://github.com/Raditt10/irmaVerse)
-[![hoshiDay.io](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=hoshiDay.io&theme=tokyonight&hide_border=true)](https://github.com/Raditt10/hoshiDay.io)
-[![semiZone](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=semiZone&theme=tokyonight&hide_border=true)](https://github.com/Raditt10/semiZone)
-[![portofolio](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=portofolio&theme=tokyonight&hide_border=true)](https://github.com/Raditt10/portofolio)
-[![forU](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=forU&theme=tokyonight&hide_border=true)](https://github.com/Raditt10/forU)
+[![bendeharaKu](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=bendeharaKu&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Raditt10/bendeharaKu)
+[![irmaVerse](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=irmaVerse&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Raditt10/irmaVerse)
+[![hoshiDay.io](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=hoshiDay.io&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Raditt10/hoshiDay.io)
+[![semiZone](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=semiZone&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Raditt10/semiZone)
+[![portofolio](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=portofolio&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Raditt10/portofolio)
+[![forU](https://github-readme-stats.vercel.app/api/pin/?username=Raditt10&repo=forU&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Raditt10/forU)
 
 </div>
+</details>
 
 ---
 
