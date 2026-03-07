@@ -8,25 +8,6 @@
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-```javascript
-const rafaditya = {
-    name: "Rafaditya Syahputra",
-    age: 17,
-    role: "Front End Developer",
-    education: {
-        school: "SMKN 13 Bandung",
-        major: "Rekayasa Perangkat Lunak (Software Engineering)"
-    },
-    experience: "2+ years",
-    passion: "Menciptakan solusi digital yang inovatif dan efisien",
-    focus: ["Web Applications", "Mobile Applications", "Clean UI/UX"]
-};
-```
-
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 Halo! 👋 Saya **Rafaditya Syahputra**, seorang **Front End Developer** dengan passion dalam menciptakan solusi digital yang **inovatif** dan **efisien**.
@@ -171,3 +152,4 @@ Saat ini saya berusia **17 tahun** dan sedang menempuh pendidikan di **SMKN 13 B
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
+
