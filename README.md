@@ -21,36 +21,15 @@ Halo! Saya **Rafaditya Syahputra**, seorang **Front End Developer** berusia **17
 <br/>
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Raditt10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Raditt10&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Raditt10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raditt10&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180"/>
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raditt10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
 
-<br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raditt10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Raditt10&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raditt10&theme=default&hide_border=true" alt="GitHub Streak" />
-</picture>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raditt10&theme=tokyonight&hide_border=true)
 
-<br/><br/>
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raditt10&theme=tokyonight)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raditt10&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raditt10&theme=default" alt="Contribution Graph" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Raditt10&theme=tokyo-night&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raditt10&theme=minimal&hide_border=true&area=true" alt="Activity Graph" />
-</picture>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raditt10&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 </details>
