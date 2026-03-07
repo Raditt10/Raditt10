@@ -8,8 +8,6 @@
 
 </div>
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 Halo! 👋 Saya **Rafaditya Syahputra**, seorang **Front End Developer** dengan passion dalam menciptakan solusi digital yang **inovatif** dan **efisien**.
 
 Dengan pengalaman lebih dari **2 tahun**, saya fokus membangun **aplikasi website** dan **aplikasi mobile** yang fungsional dengan antarmuka yang bersih dan user-friendly.
