@@ -1,16 +1,7 @@
-<div align="center">
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF,58A6FF,58A6FF,FFFFFF,58A6FF&center=true&vCenter=true&random=false&width=600&lines=🎓+SMKN+13+BANDUNG;💻+FRONT+END+DEVELOPER;☁️+CLOUD+ENGINEER;🎨+GRAPHIC+DESIGNER)](https://git.io/typing-svg)
-
-</div>
-
-## About Me
-
 Hello! I'm **Rafaditya Syahputra**, a Junior **Front End Developer** and **Cloud Enginner** from Indonesia, currently **17 years old** and studying at **SMKN 13 Bandung**, majoring in **Software Engineering**. With over **2 years of experience**, I am passionate about creating **innovative** and **efficient** digital solutions—from **web applications** to **mobile apps** with clean and user-friendly interfaces.
 
  - Working on **Web & Mobile** projects
- - Continuously learning and improving skills in **Front End Development**
+ - Continuously learning and improving skills in **Front End Development & Cloud Computing**
  - Goal: To become an impactful developer and create high-quality digital products
 ---
 
