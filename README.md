@@ -1,10 +1,3 @@
-Hello! I'm **Rafaditya Syahputra**, a Junior **Front End Developer** and **Cloud Enginner** from Indonesia, currently **17 years old** and studying at **SMKN 13 Bandung**, majoring in **Software Engineering**. With over **2 years of experience**, I am passionate about creating **innovative** and **efficient** digital solutions—from **web applications** to **mobile apps** with clean and user-friendly interfaces.
-
- - Working on **Web & Mobile** projects
- - Continuously learning and improving skills in **Front End Development & Cloud Computing**
- - Goal: To become an impactful developer and create high-quality digital products
----
-
 <details>
 <summary><h2>My GitHub Statistics</h2></summary>
 <br/>
