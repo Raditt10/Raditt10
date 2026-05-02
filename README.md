@@ -1,7 +1,9 @@
-**@rafaaa**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=@rafaditya_syahputra" alt="@rafaditya_syahputra" />
+</div>
 
 <details>
-<summary><h2>My GitHub Statistics</h2></summary>
+<summary><h2>GitHub Statistics</h2></summary>
 <br/>
 <div align="center">
 
@@ -17,16 +19,16 @@
 ---
 
 <details>
-<summary><h2>My GitHub Achievements</h2></summary>
+<summary><h2>GitHub Achievements</h2></summary>
 <br/>
 <div align="center">
 
-| Achievement | Description |
-|:-:|:-:|
-| Pull Shark | Merged pull requests |
-| Pair Extraordinaire | Co-authored commits |
-| Quickdraw | Rapid issue/PR interactions |
-| YOLO | Merged without review |
+|     Achievement     |         Description         |
+| :-----------------: | :-------------------------: |
+|     Pull Shark      |    Merged pull requests     |
+| Pair Extraordinaire |     Co-authored commits     |
+|      Quickdraw      | Rapid issue/PR interactions |
+|        YOLO         |    Merged without review    |
 
 </div>
 </details>
