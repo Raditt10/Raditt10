@@ -3,7 +3,7 @@
 </div>
 
 <details>
-<summary><h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=ffffff&vCenter=true&width=250&lines=GitHub+Statistics" alt="GitHub Statistics" /></h2></summary>
+<summary><h3>GitHub Statistics</h3></summary>
 <br/>
 <div align="center">
 
@@ -19,7 +19,7 @@
 ---
 
 <details>
-<summary><h2>GitHub Achievements</h2></summary>
+<summary><h3>GitHub Achievements</h3></summary>
 <br/>
 <div align="center">
 
