@@ -19,7 +19,7 @@
 ---
 
 <details>
-<summary><h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=ffffff&vCenter=true&width=300&lines=GitHub+Achievements" alt="GitHub Achievements" /></h2></summary>
+<summary><h2>GitHub Achievements</h2></summary>
 <br/>
 <div align="center">
 
