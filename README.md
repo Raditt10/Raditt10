@@ -16,21 +16,6 @@
 
 ---
 
-<details>
-<summary><h3>GitHub Achievements</h3></summary>
-<br/>
-<div align="center">
-
-|     Achievement     |         Description         |
-| :-----------------: | :-------------------------: |
-|     Pull Shark      |    Merged pull requests     |
-| Pair Extraordinaire |     Co-authored commits     |
-|      Quickdraw      | Rapid issue/PR interactions |
-|        YOLO         |    Merged without review    |
-
-</div>
-</details>
-
 ---
 
 <div align="center">
