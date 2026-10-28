@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=@rafaditya_syahputra" alt="@rafaditya_syahputra" />
 </div>
 
-<details>
 <summary><h3>GitHub Statistics</h3></summary>
 <br/>
 <div align="center">
@@ -12,7 +11,6 @@
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raditt10&theme=tokyonight)
 
 </div>
-</details>
 
 <div align="center">
 
