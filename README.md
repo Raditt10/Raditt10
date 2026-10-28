@@ -14,10 +14,6 @@
 </div>
 </details>
 
----
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Raditt10&color=58A6FF&style=flat-square&label=Profile+Views)
