@@ -11,8 +11,6 @@
 
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raditt10&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raditt10&theme=tokyo-night&hide_border=true&area=true)
-
 </div>
 </details>
 
